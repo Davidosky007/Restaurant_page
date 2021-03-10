@@ -1,0 +1,30 @@
+{
+  "name": "restaurant_page",
+  "version": "1.0.0",
+  "description": "In this project we continue practicing DOM manipulation by dynamically rendering a simple restaurant homepage. By the end, we are going to be using JavaScript alone to generate the entire contents of the website!",
+  "main": "index.js",
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "stylelint": "^13.3.3",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.17.2",
+    "stylelint-config-standard": "^20.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Davidosky007/Restaurant_page.git"
+  },
+  "author": "David Bassey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davidosky007/Restaurant_page/issues"
+  },
+  "homepage": "https://github.com/Davidosky007/Restaurant_page#readme"
+}
