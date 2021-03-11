@@ -16,11 +16,29 @@ body {
 .nav_item {
   display: flex;
   justify-content: space-between;
-  margin-top: -663px;
+  margin-top: -303px;
 }
 
-a:hover {
+/* a:hover {
   border-bottom: 3px solid #09f;
   cursor: pointer;
+} */
+
+.menu_card {
+  display: none;
 }
 
+.initail_div {
+ display: inline-block;
+ justify-content: center;
+ align-items: center;
+ margin:0 auto;
+}
+
+.contact_page {
+  display: none;
+}
+
+.conz {
+  margin-top: ;
+}
