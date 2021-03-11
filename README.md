@@ -68,5 +68,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 * Microverse
+* Photo by <a href="https://unsplash.com/@herfoodstyle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Manny NB</a> on <a href="/s/photos/african-food?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 
 ## 📝 License

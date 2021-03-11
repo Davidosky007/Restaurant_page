@@ -1,5 +1,5 @@
 import './style.css';
-import Amala from '../assets/images/background1.jpg';
+// import Amala from '../assets/images/background2.jpg';
 
 function component() {
   const element = document.createElement('div');
@@ -15,9 +15,9 @@ function component() {
  </div>
 
  </div>`;
- const myAmala = new Image();
- myAmala.src = Amala;
- element.appendChild(myAmala);
+//  const myAmala = new Image();
+//  myAmala.src = Amala;
+//  element.appendChild(myAmala);
  
   return element;
 }
