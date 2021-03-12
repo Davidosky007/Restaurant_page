@@ -4,13 +4,11 @@ import header from './header';
 import menuCreate from './menu';
 import contactPage from './contact';
 
-
 const content = document.getElementById('content');
 content.appendChild(navItem());
 content.appendChild(header());
 content.appendChild(menuCreate());
 content.appendChild(contactPage());
-
 
 document.querySelector('#content').addEventListener('click', (e) => {
   e.preventDefault();

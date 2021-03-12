@@ -21,6 +21,6 @@ const contactPage = () => {
     </form>
   `;
   return contact;
-}
+};
 
-export { contactPage as default};
+export { contactPage as default };

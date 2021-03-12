@@ -1,8 +1,8 @@
 const menuCreate = () => {
-const menu = document.createElement('div');
-menu.setAttribute('id', 'menu');
-menu.classList.add('menu_card');
-menu.innerHTML = `
+  const menu = document.createElement('div');
+  menu.setAttribute('id', 'menu');
+  menu.classList.add('menu_card');
+  menu.innerHTML = `
 <div class="d-flex mx-auto">
 
 <div class="card text-white bg-primary mb-3 mr-5" style="max-width: 20rem;">
@@ -41,7 +41,7 @@ menu.innerHTML = `
 
 
 `;
-return menu;
+  return menu;
 };
 
-export { menuCreate as default};
+export { menuCreate as default };
