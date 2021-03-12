@@ -30,7 +30,7 @@ The 'index.js' file in the src directory is the main file which imports all the 
 
 ## Live Demo
 
-* [Live Demo Link](https://davidosky007.github.io/JS_Library/)
+* [Live Demo Link](https://davidosky007.github.io/Restaurant_page/)
 
 ## Built With
 
@@ -40,10 +40,13 @@ The 'index.js' file in the src directory is the main file which imports all the 
 * Bootstrap
 * webpack
 * Npm
+* file loader
+* style loader
+* css loader
 
 ### Install and Setup
 
-* Clone repo to your local `https://github.com/Davidosky007/JS_Library`
+* Clone repo to your local `https://github.com/Davidosky007/Restaurant_page.git`
 * cd into the cloned repo
 * Open a terminal in the root of the app
 
@@ -59,7 +62,7 @@ The 'index.js' file in the src directory is the main file which imports all the 
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Davidosky007/JS_Library/issues).
+Feel free to check the [issues page](https://github.com/Davidosky007/Restaurant_page/issues).
 
 ## Show your support
 
