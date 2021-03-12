@@ -14,7 +14,6 @@ content.appendChild(contactPage());
 
 document.querySelector('#content').addEventListener('click', (e) => {
   e.preventDefault();
-  console.log(e.target);
   const control = e.target;
   const navbar = document.querySelector('.navbar');
   const heading = document.querySelector('#div_initial');

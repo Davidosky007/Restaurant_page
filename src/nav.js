@@ -3,7 +3,7 @@ const navbar = document.createElement('nav');
 navbar.classList.add('navbar');
 navbar.innerHTML = `
 <nav class="navbar navbar-expand-lg navbar-dark nav_item container-fluid  ">
-  <a class="navbar-brand " href="#"><h1>Foodiez</h1></a>
+  <a class="navbar-brand mr-6 " href="#"><h1 class="display-3">Foodiez</h1></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor03" aria-controls="navbarColor03" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>

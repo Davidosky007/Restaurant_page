@@ -3,36 +3,36 @@ const menu = document.createElement('div');
 menu.setAttribute('id', 'menu');
 menu.classList.add('menu_card');
 menu.innerHTML = `
-<div class="d-flex">
+<div class="d-flex mx-auto">
 
-<div class="card text-white bg-primary mb-3 mr-2" style="max-width: 20rem;">
+<div class="card text-white bg-primary mb-3 mr-5" style="max-width: 20rem;">
   <div class="card-header">Breakfast</div>
   <div class="card-body">
-  <span>Omelette</span>
-  <span>Coffee</span>
-  <span>Tea</span>
-  <span>Bread</span>
+  <div>Omelette</div>
+  <div>Coffee</div>
+  <div>Tea</div>
+  <div>Bread</div>
   </div>
 </div>
 
-<div class="card text-white bg-primary mb-3 mr-2" style="max-width: 20rem;">
+<div class="card text-white bg-primary mb-3 mr-5" style="max-width: 20rem;">
   <div class="card-header">Lunch</div>
   <div class="card-body">
-  <span>Burger</span>
-  <span>Pizza</span>
-  <span>Steak</span>
-  <span>Chicken panini</span> 
+  <div>Burger</div>
+  <div>Pizza</div>
+  <div>Steak</div>
+  <div>Chicken panini</div> 
   </div>
 </div>
 
-<div class="card text-white bg-primary mb-3 mr-2" style="max-width: 20rem;">
+<div class="card text-white bg-primary mb-3 mr-5" style="max-width: 20rem;">
   <div class="card-header">Dinner</div>
-  <div class="card-body d-flex flex-direction-column">
-  <span>Salad</span>
-  <span>Brown bread</span>
-  <span>Soup</span>
-  <span>White bread</span>
-  <span>Fried rice and chicken</span>
+  <div class="card-body">
+  <div>Salad</div>
+  <div>Brown bread</div>
+  <div>Soup</div>
+  <div>White bread</div>
+  <div>Fried rice and chicken</div>
   </div>
 </div>
 
